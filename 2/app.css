@@ -1,0 +1,17 @@
+body {
+    margin: 2%;
+}
+
+.hideBtn {
+    padding:0.2% 0.5%;
+    font-size: 1.2em;
+}
+
+.myPoem {
+    font-size: 1.5em;
+    line-height: 25%;
+}
+
+p:first-child {
+    font-weight: bold;
+}
