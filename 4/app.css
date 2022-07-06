@@ -1,0 +1,12 @@
+span {
+    line-height: 2.5rem;
+}
+
+button {
+    margin: 1% 0;
+}
+
+p, span, button {
+    font-size: 1.2em;
+}
+
